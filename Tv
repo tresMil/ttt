@@ -1,0 +1,311 @@
+#EXTM3U
+
+#EXTINF:-1,10
+http://ligatv.net:25461/live/apiptv/03022019/47.m3u8
+#EXTINF:-1,ADN 40
+http://ligatv.net:25461/live/apiptv/03022019/20.m3u8
+#EXTINF:-1,AXN
+http://ligatv.net:25461/live/apiptv/03022019/261.m3u8
+#EXTINF:-1,A&E
+http://ligatv.net:25461/live/apiptv/03022019/263.m3u8
+#EXTINF:-1,AMC
+http://ligatv.net:25461/live/apiptv/03022019/226.m3u8
+#EXTINF:-1,Antena 3
+http://ligatv.net:25461/live/apiptv/03022019/177.m3u8
+#EXTINF:-1,A+
+http://ligatv.net:25461/live/apiptv/03022019/06.m3u8
+#EXTINF:-1,Aprende tv
+http://ligatv.net:25461/live/apiptv/03022019/08.m3u8
+#EXTINF:-1,Animal Planet
+http://ligatv.net:25461/live/apiptv/03022019/242.m3u8
+#EXTINF:-1,Az Uno
+http://ligatv.net:25461/live/apiptv/03022019/05.m3u8
+#EXTINF:-1,Az Mundo
+http://ligatv.net:25461/live/apiptv/03022019/243.m3u8
+#EXTINF:-1,Az Corazon
+http://ligatv.net:25461/live/apiptv/03022019/274.m3u8
+#EXTINF:-1,Aprende Tv
+http://ligatv.net:25461/live/apiptv/03022019/08.m3u8
+
+#EXTINF:-1,Baby Tv
+http://ligatv.net:25461/live/apiptv/03022019/286.m3u8
+#EXTINF:-1,Being Sports
+http://ligatv.net:25461/live/apiptv/03022019/75.m3u8
+#EXTINF:-1,Boomerang
+http://ligatv.net:25461/live/apiptv/03022019/285.m3u8
+
+#EXTINF:-1,CNN
+http://ligatv.net:25461/live/apiptv/03022019/166.m3u8
+#EXTINF:-1,CDF
+http://ligatv.net:25461/live/apiptv/03022019/66.m3u8
+#EXTINF:-1,Cable Noticias
+http://ligatv.net:25461/live/apiptv/03022019/167.m3u8
+#EXTINF:-1,Canal Judicial
+http://ligatv.net:25461/live/apiptv/03022019/10.m3u8
+#EXTINF:-1,Canal Claro
+http://ligatv.net:25461/live/apiptv/03022019/174.m3u8
+#EXTINF:-1,Caracol
+http://ligatv.net:25461/live/apiptv/03022019/175.m3u8
+#EXTINF:-1,Cartoon Network
+http://ligatv.net:25461/live/apiptv/03022019/284.m3u8
+#EXTINF:-1,Canal Jalisco 7
+http://ligatv.net:25461/live/apiptv/03022019/15.m3u8
+#EXTINF:-1,Canal 11
+http://ligatv.net:25461/live/apiptv/03022019/16.m3u8
+#EXTINF:-1,Canal 22
+http://ligatv.net:25461/live/apiptv/03022019/17.m3u8
+#EXTINF:-1,CB tv
+http://ligatv.net:25461/live/apiptv/03022019/21.m3u8
+#EXTINF:-1,Classic
+http://ligatv.net:25461/live/apiptv/03022019/178.m3u8
+#EXTINF:-1,Cinema+
+http://ligatv.net:25461/live/apiptv/03022019/220.m3u8
+#EXTINF:-1,CineMax
+http://ligatv.net:25461/live/apiptv/03022019/224.m3u8
+#EXTINF:-1,Cine Latino
+http://ligatv.net:25461/live/apiptv/03022019/222.m3u8
+#EXTINF:-1,Cine Dinamita
+http://ligatv.net:25461/live/apiptv/03022019/223.m3u8
+#EXTINF:-1,Civilitazion
+http://ligatv.net:25461/live/apiptv/03022019/240.m3u8
+#EXTINF:-1,Comedy Central
+http://ligatv.net:25461/live/apiptv/03022019/260.m3u8
+#EXTINF:-1,Claro Cinema
+http://ligatv.net:25461/live/apiptv/03022019/221.m3u8
+#EXTINF:-1,Claro Sports
+http://ligatv.net:25461/live/apiptv/03022019/300.m3u8
+#EXTINF:-1,Claro Sports2
+http://ligatv.net:25461/live/apiptv/03022019/299.m3u8
+
+#EXTINF:-1,De Pelicula
+http://ligatv.net:25461/live/apiptv/03022019/219.m3u8
+#EXTINF:-1,Discovery
+http://ligatv.net:25461/live/apiptv/03022019/241.m3u8
+#EXTINF:-1,Discovery Kids
+http://ligatv.net:25461/live/apiptv/03022019/280.m3u8
+#EXTINF:-1,Disney Jr
+http://ligatv.net:25461/live/apiptv/03022019/282.m3u8
+#EXTINF:-1,Disney Chanel
+http://ligatv.net:25461/live/apiptv/03022019/283.m3u8
+#EXTINF:-1,DHE
+http://ligatv.net:25461/live/apiptv/03022019/214.m3u8
+
+#EXTINF:-1,E
+http://ligatv.net:25461/live/apiptv/03022019/259.m3u8
+#EXTINF:-1,Efekto tv
+http://ligatv.net:25461/live/apiptv/03022019/22.m3u8
+#EXTINF:-1,ESPN
+http://ligatv.net:25461/live/apiptv/03022019/393.m3u8
+#EXTINF:-1,ESPN2
+http://ligatv.net:25461/live/apiptv/03022019/394.m3u8
+#EXTINF:-1,ESPN3
+http://ligatv.net:25461/live/apiptv/03022019/292.m3u8
+#EXTINF:-1,ESPN+
+http://ligatv.net:25461/live/apiptv/03022019/295.m3u8
+
+#EXTINF:-1,Foro tv
+http://ligatv.net:25461/live/apiptv/03022019/23.m3u8
+#EXTINF:-1,Formula
+http://ligatv.net:25461/live/apiptv/03022019/26.m3u8
+#EXTINF:-1,Fx
+http://ligatv.net:25461/live/apiptv/03022019/255.m3u8
+#EXTINF:-1,Fox Sport
+http://ligatv.net:25461/live/apiptv/03022019/49.m3u8
+#EXTINF:-1,Fox Sports2
+http://ligatv.net:25461/live/apiptv/03022019/290.m3u8
+#EXTINF:-1,Fox Sports3
+http://ligatv.net:25461/live/apiptv/03022019/289.m3u8
+#EXTINF:-1,Fox Sports Arg
+http://ligatv.net:25461/live/apiptv/03022019/291.m3u8
+#EXTINF:-1,Fox Movies
+http://ligatv.net:25461/live/apiptv/03022019/206.m3u8
+#EXTINF:-1,Fox Family
+http://ligatv.net:25461/live/apiptv/03022019/208.m3u8
+#EXTINF:-1,Fox Comedy
+http://ligatv.net:25461/live/apiptv/03022019/209.m3u8
+#EXTINF:-1,Fox Classic
+http://ligatv.net:25461/live/apiptv/03022019/210.m3u8
+#EXTINF:-1,Fox Cinema
+http://ligatv.net:25461/live/apiptv/03022019/211.m3u8
+#EXTINF:-1,Fox Action
+http://ligatv.net:25461/live/apiptv/03022019/213.m3u8
+#EXTINF:-1,Fox Series
+http://ligatv.net:25461/live/apiptv/03022019/256.m3u8
+#EXTINF:-1,Fox Life
+http://ligatv.net:25461/live/apiptv/03022019/257.m3u8
+#EXTINF:-1,Fox
+http://ligatv.net:25461/live/apiptv/03022019/258.m3u8
+
+#EXTINF:-1,Golden
+http://ligatv.net:25461/live/apiptv/03022019/216.m3u8
+#EXTINF:-1,Golden Premiere
+http://ligatv.net:25461/live/apiptv/03022019/215.m3u8
+#EXTINF:-1,Gourment
+http://ligatv.net:25461/live/apiptv/03022019/229.m3u8
+#EXTINF:-1,Garage Tv
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:-1,HTV
+http://ligatv.net:25461/live/apiptv/03022019/173.m3u8
+#EXTINF:-1,HBO Signature
+http://ligatv.net:25461/live/apiptv/03022019/200.m3u8
+#EXTINF:-1,HBO Family
+http://ligatv.net:25461/live/apiptv/03022019/201.m3u8
+#EXTINF:-1,HBO
+http://ligatv.net:25461/live/apiptv/03022019/202.m3u8
+#EXTINF:-1,HBO2
+http://ligatv.net:25461/live/apiptv/03022019/203.m3u8
+#EXTINF:-1,Hbo
+http://ligatv.net:25461/live/apiptv/03022019/204.m3u8
+#EXTINF:-1,Hola TV
+http://ligatv.net:25461/live/apiptv/03022019/232.m3u8
+#EXTINF:-1,History
+http://ligatv.net:25461/live/apiptv/03022019/234.m3u8
+#EXTINF:-1,History2
+http://ligatv.net:25461/live/apiptv/03022019/233.m3u8
+#EXTINF:-1,H&H
+http://ligatv.net:25461/live/apiptv/03022019/235.m3u8
+
+#EXTINF:-1,Las Estrellas
+http://ligatv.net:25461/live/apiptv/03022019/176.m3u8
+#EXTINF:-1,Life Time
+http://ligatv.net:25461/live/apiptv/03022019/254.m3u8
+
+#EXTINF:-1,ID
+http://ligatv.net:25461/live/apiptv/03022019/231.m3u8
+#EXTINF:-1,Ingenio tv
+http://ligatv.net:25461/live/apiptv/03022019/09.m3u8
+#EXTINF:-1,Imagen Tv
+http://ligatv.net:25461/live/apiptv/03022019/03.m3u8
+
+#EXTINF:-1,MasChic
+http://ligatv.net:25461/live/apiptv/03022019/230.m3u8
+#EXTINF:-1,Max Prime
+http://ligatv.net:25461/live/apiptv/03022019/197.m3u8
+#EXTINF:-1,Max
+http://ligatv.net:25461/live/apiptv/03022019/198.m3u8
+#EXTINF:-1,Milenio
+http://ligatv.net:25461/live/apiptv/03022019/24.m3u8
+#EXTINF:-1,Mexiquense
+http://ligatv.net:25461/live/apiptv/03022019/11.m3u8
+#EXTINF:-1,Movistar Deportes
+http://ligatv.net:25461/live/apiptv/03022019/106.m3u8
+#EXTINF:-1,Multi Premier
+http://ligatv.net:25461/live/apiptv/03022019/196.m3u8
+#EXTINF:-1,Multimedios MTY
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1,MC
+http://ligatv.net:25461/live/apiptv/03022019/02.m3u8
+#EXTINF:-1,MTV Lives
+http://ligatv.net:25461/live/apiptv/03022019/182.m3u8
+#EXTINF:-1,MTV Hits
+http://ligatv.net:25461/live/apiptv/03022019/183.m3u8
+#EXTINF:-1,MTV
+http://ligatv.net:25461/live/apiptv/03022019/184.m3u8
+
+#EXTINF:-1,Nat Geo
+http://ligatv.net:25461/live/apiptv/03022019/228.m3u8
+#EXTINF:-1,Nat GeoKids
+http://ligatv.net:25461/live/apiptv/03022019/279.m3u8
+#EXTINF:-1,Nex Tv
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1,Nick
+http://ligatv.net:25461/live/apiptv/03022019/278.m3u8
+#EXTINF:-1,Nick2
+http://ligatv.net:25461/live/apiptv/03022019/277.m3u8
+#EXTINF:-1,Nick Jr
+http://ligatv.net:25461/live/apiptv/03022019/276.m3u8
+#EXTINF:-1,Nuestra Vision
+http://ligatv.net:25461/live/apiptv/03022019/25.m3u8
+
+#EXTINF:-1,Paramount
+http://ligatv.net:25461/live/apiptv/03022019/193.m3u8
+#EXTINF:-1,Pasiones
+http://ligatv.net:25461/live/apiptv/03022019/253.m3u8
+#EXTINF:-1,Pinguino tv
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:-1,Real Madrid
+http://ligatv.net:25461/live/apiptv/03022019/76.m3u8
+#EXTINF:-1,Rcn Novelas
+http://ligatv.net:25461/live/apiptv/03022019/252.m3u8
+#EXTINF:-1,RCG
+http://ligatv.net:25461/live/apiptv/03022019/13.m3u8
+#EXTINF:-1,RCG 2
+http://ligatv.net:25461/live/apiptv/03022019/14.m3u8
+#EXTINF:-1,RCG 3
+http://ligatv.net:25461/live/apiptv/03022019/12.m3u8
+
+#EXTINF:-1,Sony
+http://ligatv.net:25461/live/apiptv/03022019/251.m3u8
+#EXTINF:-1,Sundance
+http://ligatv.net:25461/live/apiptv/03022019/190.m3u8
+#EXTINF:-1,Space
+http://ligatv.net:25461/live/apiptv/03022019/192.m3u8
+#EXTINF:-1,SCI
+http://ligatv.net:25461/live/apiptv/03022019/239.m3u8
+#EXTINF:-1,Studio Universal
+http://ligatv.net:25461/live/apiptv/03022019/191.m3u8
+
+#EXTINF:-1,TBS
+http://ligatv.net:25461/live/apiptv/03022019/250.m3u8
+#EXTINF:-1,TCM
+http://ligatv.net:25461/live/apiptv/03022019/189.m3u8
+#EXTINF:-1,TDN
+http://ligatv.net:25461/live/apiptv/03022019/67.m3u8
+#EXTINF:-1,TDN2
+http://ligatv.net:25461/live/apiptv/03022019/68.m3u8
+#EXTINF:-1,TDN3
+http://ligatv.net:25461/live/apiptv/03022019/70.m3u8
+#EXTINF:-1,TmTv
+http://ligatv.net:25461/live/apiptv/03022019/65.m3u8
+#EXTINF:-1,Tvc Deportes
+http://ligatv.net:25461/live/apiptv/03022019/69.m3u8
+#EXTINF:-1,Tvmas
+http://ligatv.net:25461/live/apiptv/03022019/19.m3u8
+#EXTINF:-1,Tvmas
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?tecnotv.info?iptv.m3u8?hermoso.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,TNT
+http://ligatv.net:25461/live/apiptv/03022019/188.m3u8
+#EXTINF:-1,TNT Series
+http://ligatv.net:25461/live/apiptv/03022019/247.m3u8
+#EXTINF:-1,TVE
+http://ligatv.net:25461/live/apiptv/03022019/170.m3u8
+#EXTINF:-1,Telemundo Internacional
+http://ligatv.net:25461/live/apiptv/03022019/171.m3u8
+#EXTINF:-1,Turbo
+http://ligatv.net:25461/live/apiptv/03022019/237.m3u8
+#EXTINF:-1,Theater
+http://ligatv.net:25461/live/apiptv/03022019/238.m3u8
+#EXTINF:-1,Tru tv
+http://ligatv.net:25461/live/apiptv/03022019/246.m3u8
+#EXTINF:-1,TeleNovelas
+http://ligatv.net:25461/live/apiptv/03022019/248.m3u8
+#EXTINF:-1,TeleMax
+http://ligatv.net:25461/live/apiptv/03022019/18.m3u8
+#EXTINF:-1,TeleMax Arg
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,TLC
+http://ligatv.net:25461/live/apiptv/03022019/249.m3u8
+#EXTINF:-1,ToonCast
+http://ligatv.net:25461/live/apiptv/03022019/275.m3u8
+
+#EXTINF:-1,Universal
+http://ligatv.net:25461/live/apiptv/03022019/245.m3u8
+#EXTINF:-1,Universo
+http://ligatv.net:25461/live/apiptv/03022019/44.m3u8
+
+#EXTINF:-1,VH1
+http://ligatv.net:25461/live/apiptv/03022019/179.m3u8
+
+#EXTINF:-1,Warner Bros
+http://ligatv.net:25461/live/apiptv/03022019/244.m3u8
+#EXTINF:-1,World
+http://ligatv.net:25461/live/apiptv/03022019/236.m3u8
+#EXTINF:-1,Wins Sports
+http://ligatv.net:25461/live/apiptv/03022019/287.m3u8
+#EXTINF:-1,Wild
+http://ligatv.net:25461/live/apiptv/03022019/227.m3u8
+
+#EXTINF:-1,XD
+http://ligatv.net:25461/live/apiptv/03022019/281.m3u8
